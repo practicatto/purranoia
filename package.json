@@ -1,0 +1,22 @@
+{
+  "name": "purranoia",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "purranoia is a game in construction",
+  "author": "practicat",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "html-minifier": "^4.0.0",
+    "jszip": "^3.10.1",
+    "kontra": "^10.0.0",
+    "roadroller": "^2.1.0",
+    "rollup-plugin-kontra": "^1.0.1",
+    "terser": "^5.31.6",
+    "vite": "^5.4.0"
+  }
+}
